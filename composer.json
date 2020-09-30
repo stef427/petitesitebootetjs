@@ -1,0 +1,16 @@
+{
+    "name": "stef/petitsiteweb",
+    "require": {
+        "components/jquery": "^3.5"
+    },
+    "require-dev": {
+        "twbs/bootstrap": "^4.5"
+    },
+    "license": "gpl3.0",
+    "authors": [
+        {
+            "name": "stef427",
+            "email": "stef_427@hotmail.com"
+        }
+    ]
+}
